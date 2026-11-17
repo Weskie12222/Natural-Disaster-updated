@@ -1,0 +1,213 @@
+{
+	"siren_00": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_00",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_01": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_01",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_02": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_02",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_03": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_03",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_04": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_04",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_05": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_05",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_06": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_06",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_07": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_07",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_08": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_08",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_09": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_09",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_10": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_10",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_11": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_11",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_12": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_12",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_13": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_13",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_14": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_14",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"siren_15": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{
+				"name": "naturaldisasters:siren_15",
+				"attenuation_distance": 300,
+				"volume": 1.0
+			}
+		]
+	},
+	"rumble": {
+		"subtitle": "subtitles.naturaldisasters.rumble",
+		"sounds": [
+			{
+				"name": "minecraft:entity.generic.explode",
+				"type": "event",
+				"pitch": 0.35,
+				"volume": 0.9
+			},
+			{
+				"name": "minecraft:ambient.cave",
+				"type": "event",
+				"pitch": 0.5,
+				"volume": 1.0
+			}
+		]
+	},
+	"roar": {
+		"subtitle": "subtitles.naturaldisasters.roar",
+		"sounds": [
+			{
+				"name": "minecraft:entity.ender_dragon.flap",
+				"type": "event",
+				"pitch": 0.4,
+				"volume": 1.0
+			},
+			{
+				"name": "minecraft:weather.rain.above",
+				"type": "event",
+				"pitch": 0.6,
+				"volume": 1.0
+			}
+		]
+	},
+	"wave": {
+		"subtitle": "subtitles.naturaldisasters.wave",
+		"sounds": [
+			{
+				"name": "minecraft:entity.generic.splash",
+				"type": "event",
+				"pitch": 0.4,
+				"volume": 1.0
+			},
+			{
+				"name": "minecraft:entity.generic.big_fall",
+				"type": "event",
+				"pitch": 0.5,
+				"volume": 0.8
+			}
+		]
+	}
+}
